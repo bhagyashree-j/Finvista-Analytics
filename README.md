@@ -38,8 +38,11 @@ FinVista-Analytics/
 │   ├── data_loader.py     # Data loading functions
 
 │   ├── data_processor.py  # Data processing and analysis
+
 │   ├── visualizations.py  # Visualization components
+
 │   └── models.py          # Financial models
+
 └── app.py                 # Main dashboard application
 
 ## How It Works
